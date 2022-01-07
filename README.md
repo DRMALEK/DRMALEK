@@ -1,7 +1,7 @@
 ### Hi there 👋
 My Name is Malek and I`m a Software Engineer and AI Enthusiast based in Germany.
 * Main Expertise: Full stack Web Development and Web Scraping.
-* Preferable Technlogy Stack : Python (Django), Javascript (Jquery + Vue.js), Docker.
+* Preferable Technology Stack : Python (Django), Javascript (Jquery + Vue.js), Docker.
 * Intersets:
 
     - Artificial Intelligence (Computer Vision, Natural language processing, ML/DL) 🤖
