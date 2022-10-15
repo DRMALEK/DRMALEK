@@ -5,7 +5,6 @@ My Name is Malek and I`m a Software Engineer and AI Enthusiast based in Germany.
 * Intersets:
 
     - Artificial Intelligence (Computer Vision, Natural language processing, ML/DL) 🤖
-    - Blockchain ⛓
   
 ## 🧰 Toolbox
 
