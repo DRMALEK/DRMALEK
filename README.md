@@ -3,7 +3,7 @@
 I'm **Malek**, an AI Software Engineer based in Germany.
 
 ### Main Expertise:
-- **Full-stack** and **AI Solutions** Development
+- **Full-stack Web** and **AI Solutions** Development
 
 ### Interests:
 - 🚴 Biking
