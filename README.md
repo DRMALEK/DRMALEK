@@ -5,11 +5,6 @@ I'm **Malek**, an AI Software Engineer based in Germany.
 ### Main Expertise:
 - **Full-stack Web** and **AI Solutions** Development
 
-### Interests:
-- 🚴 Biking
-- 🏸 Badminton
-- ✈️ Traveling
-
 ### 🧰 Toolbox:
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50"/>
