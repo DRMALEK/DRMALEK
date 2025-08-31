@@ -18,4 +18,6 @@ I'm **Malek**, an AI Software Engineer based in Germany.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="Azure logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Azure logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Azure logo" width="50" height="50"/>
+  <img src="https://camo.githubusercontent.com/4923ee14ee70ca196174d70c4e1ea1ab591023c9750e5c862894ce3b26496bb7/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f636f70696c6f742f636f70696c6f742e77656270" alt="Githut copliot logo" width="50" height="50"/>
 </p>
+
