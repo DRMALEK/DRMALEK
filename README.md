@@ -14,4 +14,5 @@ I'm **Malek**, an AI Software Engineer based in Germany.
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow logo" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="Azure logo" width="50" height="50"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Azure logo" width="50" height="50"/>
 </p>
