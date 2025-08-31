@@ -1,6 +1,6 @@
 # Hi There 👋
 
-I'm **Malek**, a Software Engineer based in Germany.
+I'm **Malek**, an AI Software Engineer based in Germany.
 
 ### Main Expertise:
 - **Full-stack Web** and **AI Solutions** Development
