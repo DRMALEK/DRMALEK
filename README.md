@@ -7,7 +7,7 @@ I'm Malek, an AI Software Engineer based in Germany.
 ### 👨‍💻 About Me
 I’m an AI-powered technical solutions developer with experience integrating advanced AI capabilities into web and Microsoft ecosystem applications — including Microsoft Teams and Power Automate.
 
-I focus on building intelligent automation solutions that improve business efficiency using large language models (LLMs), retrieval-augmented generation (RAG), in addition to vanilla full-stack web applications. 
+I focus on building intelligent automation solutions that improve business efficiency using large language models (LLMs), retrieval-augmented generation (RAG), in addition to vanilla full-stack web development. 
 
 I hold a Master’s degree in Computer Science with a focus on Resource-Efficient Deep Learning, supported by hands-on experience in enterprise and SaaS environments across Europe and Turkey.
 
