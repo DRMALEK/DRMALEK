@@ -5,11 +5,11 @@ I'm Malek, a Full-Stack Engineer based in Germany.
 ---
 
 ### 👨‍💻 About Me
-I’m an AI-powered technical solutions developer with experience integrating advanced AI capabilities into web and Microsoft ecosystem applications — including Microsoft Azure and Microsoft Teams.
+I’m an AI-powered technical solutions developer with experience integrating advanced AI capabilities into web applications and the Microsoft ecosystem, including Microsoft Teams and Power Automate.  
 
-I focus on building intelligent automation solutions that improve business efficiency using large language models (LLMs), retrieval-augmented generation (RAG), in addition to vanilla full-stack web development. 
+My expertise covers retrieval-augmented generation (RAG), ReAct agents, custom LLM fine-tuning, and full-stack web application development.  
 
-I hold a Master’s degree in Computer Science with a focus on Resource-Efficient Deep Learning, supported by hands-on experience in enterprise and SaaS environments across Europe and Turkey.
+I hold a Master’s degree in Computer Science from the University of Stuttgart, Germany. Specializing in resource-efficient deep learning, combined with hands-on experience in enterprise and SaaS environments across Europe and Turkey.
 
 ---
 
