@@ -1,6 +1,6 @@
 # Hi There 👋
 
-I'm Malek, a Full-Stack Engineer based in Germany.  
+I'm Malek, a Software Developer based in Germany.  
 
 ---
 
